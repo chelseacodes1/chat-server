@@ -1,0 +1,9 @@
+RESULT REGISTER 1
+RESULT LOGIN 1
+Error: Invalid use of JOIN command
+Error: Invalid use of CREATE command
+RESULT JOIN 茶馆 0
+RESULT CREATE 茶馆 1
+RESULT JOIN 茶馆 1
+RESULT CREATE 茶馆 0
+RECV ユー 茶馆 也许以后还有缘相见。

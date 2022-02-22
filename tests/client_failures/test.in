@@ -1,0 +1,10 @@
+REGISTER
+LOGIN
+CREATE
+CREATE not_loggedin 
+CREATE "not logged in" 
+JOIN
+JOIN not_loggedin
+SAY
+SAY test_channel
+SAY test_channel invalid msg

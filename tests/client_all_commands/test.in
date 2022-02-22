@@ -1,0 +1,17 @@
+CHANNELS
+REGISTER user3 november3
+REGISTER user3 november3
+LOGIN user3
+LOGIN user3 november30
+LOGIN user3 november3
+LOGIN user3 november3
+CREATE local
+JOIN local 
+CHANNELS 
+JOIN f2
+JOIN f1
+CREATE f1
+JOIN f1
+SAY f1 it's race weekend
+SAY f1 in_Qatar
+SAY local walking

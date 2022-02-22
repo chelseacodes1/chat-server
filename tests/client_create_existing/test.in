@@ -1,0 +1,7 @@
+REGISTER user29 brazil 
+LOGIN user29 brazil 
+CHANNELS
+CREATE news
+JOIN news
+JOIN intros
+JOIN f1 

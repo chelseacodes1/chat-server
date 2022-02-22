@@ -1,0 +1,7 @@
+Error: user not logged in, cannot send message
+Error: User not logged in, cannot create channel
+RESULT LOGIN 0
+RESULT REGISTER 1
+RESULT LOGIN 0
+RESULT LOGIN 1
+RESULT LOGIN 0

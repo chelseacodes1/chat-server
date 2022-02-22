@@ -1,0 +1,12 @@
+REGISTER user2 hello2 
+LOGIN user2 hello2
+CHANNELS
+CREATE news
+CHANNELS
+CREATE intros 
+CHANNELS
+CREATE f1
+CHANNELS
+JOIN news
+JOIN intros
+JOIN f1 

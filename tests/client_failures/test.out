@@ -1,0 +1,10 @@
+RESULT REGISTER 0
+RESULT LOGIN 0
+Error: Invalid use of CREATE command
+Error: User not logged in, cannot create channel
+Error: User not logged in, cannot create channel
+Error: Invalid use of JOIN command
+RESULT JOIN not_loggedin 0
+Error: Invalid use of SAY command
+Error: Invalid use of SAY command
+Error: user not logged in, cannot send message

@@ -1,0 +1,9 @@
+REGISTER ユー 猎人
+LOGIN ユー 猎人
+JOIN 
+CREATE
+JOIN 茶馆
+CREATE 茶馆
+JOIN 茶馆
+CREATE 茶馆
+SAY 茶馆 也许以后还有缘相见。

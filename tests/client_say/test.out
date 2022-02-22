@@ -1,0 +1,7 @@
+Error: Invalid use of SAY command
+Error: user not logged in, cannot send message
+RESULT REGISTER 1
+RESULT LOGIN 1
+RESULT JOIN f1 1
+RECV user4 f1 3 more races to go
+RECV user4 f1 watching race

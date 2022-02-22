@@ -1,0 +1,1 @@
+[{"client_valid_channels": "Passed"}, {"client_all_commands": "Passed"}, {"client_cjk_login_register": "Passed"}, {"client_say": "Passed"}, {"client_cjk_channels": "Passed"}, {"client_create_existing": "Passed"}, {"client_failures": "Passed"}]

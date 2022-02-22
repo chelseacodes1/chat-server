@@ -1,0 +1,7 @@
+SAY f1
+SAY f1 hello
+REGISTER user4 sunny4
+LOGIN user4 sunny4
+JOIN f1
+SAY f1 3 more races to go
+SAY f1 watching race 
